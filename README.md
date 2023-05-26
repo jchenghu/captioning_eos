@@ -20,7 +20,7 @@ this repository using our `features_generation.py` script by specifying the sour
 python features_generation.py --tsv_features_path trainval_file_path
 ```
 
-Download `dataset_coco.json` [here](https://drive.google.com/drive/folders/1z-kVvVsOhcW6QSPqB27h5ta5XsRGG5sv?usp=sharing)
+Download `dataset_coco.json` [here](https://drive.google.com/drive/folders/1bfSUlDBHTmd4t_M6Mp08QXVaD87-RLZc?usp=share_link)
 and place it in the directory `github_ignore_material/raw_data/`. <br>
 
 ### Usage
